@@ -1,1 +1,2 @@
 Initial content for File A
+Second content for File A
