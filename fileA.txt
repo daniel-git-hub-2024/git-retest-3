@@ -1,2 +1,3 @@
-Initial content for File A
+Initial content for File A <<<<<<< HEAD
 Second content for File A
+Conflicting message >>>>>>> feature/add-files
